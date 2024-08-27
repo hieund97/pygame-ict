@@ -11,9 +11,23 @@ Chương trình này được thiết kế để hướng dẫn bạn các kỹ 
 
 ### 1. Cài đặt Python
 
-Trước khi bắt đầu, bạn cần cài đặt Python trên máy tính của mình. Bạn có thể tải phiên bản mới nhất của Python từ trang web chính thức: [python.org](https://www.python.org/downloads/).
+Trước khi bắt đầu, bạn cần cài đặt Python trên máy tính của mình. Có hai cách để cài đặt Python:
+
+#### Cách 1: Tải từ trang web chính thức
+
+Bạn có thể tải phiên bản mới nhất của Python từ trang web chính thức: [python.org](https://www.python.org/downloads/).
 
 Sau khi tải về, hãy chạy trình cài đặt và làm theo hướng dẫn trên màn hình. Hãy chắc chắn rằng bạn đã chọn tùy chọn để thêm Python vào PATH trong quá trình cài đặt.
+
+#### Cách 2: Cài đặt Python trên macOS bằng Homebrew (Chỉ dành cho MacOS)
+
+Homebrew là một trình quản lý gói phổ biến trên macOS. Nếu bạn đã cài đặt Homebrew, bạn có thể cài đặt Python bằng lệnh sau:
+
+```bash
+brew install python
+```
+
+Lệnh này sẽ tải và cài đặt phiên bản mới nhất của Python trên máy tính macOS của bạn.
 
 ### 2. Cài đặt Pygame
 
