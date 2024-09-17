@@ -7,6 +7,8 @@
 
 Chương trình này được thiết kế để hướng dẫn bạn các kỹ năng cơ bản và nâng cao trong lập trình Python thông qua việc sử dụng Pygame. Bạn sẽ học cách tạo ra các trò chơi từ đơn giản đến phức tạp, hiểu rõ cách làm việc với đồ họa, âm thanh, và các sự kiện người dùng.
 
+## VIDEO HƯỚNG DẪN CÀI ĐẶT PYTHON VÀ VS CODE: [Link](https://youtu.be/ti2kSljDqxo?si=J5MezU5U85rVklda)
+
 ## Cách cài đặt Python, Pygame và PyInstaller
 
 ### 1. Cài đặt Python
